@@ -7,6 +7,9 @@ import kotlinx.coroutines.flow.Flow
 interface RepositoriSiswa {
     fun getAllSiswaStream(): Flow<List<Siswa>>
 
+    suspend fun deleteSiswa(siswa: Siswa)
+
+
     suspend fun insertSiswa(siswa: Siswa)
 
 }
@@ -14,8 +17,6 @@ interface RepositoriSiswa {
 class OfflineRepositoriSiswa(
     private val siswaDao: SiswaDao
 ): RepositoriSiswa {
-    override fun getAllSiswaStream(): Flow<List<Siswa>> = siswaDao
-        .getAllSiswa()
-    override suspend fun insertSiswa(siswa: Siswa) = siswaDao
-        .insert(siswa)
+    override fun getAllSiswaStream(): Flow<List<Siswa>> = siswaDao.getAllSiswa()
+    override suspend fun insertSiswa(siswa: Siswa) = siswaDao.insert(siswa)
 }
