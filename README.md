@@ -1,9 +1,5 @@
 hasil 1
-<img width="1344" height="2992" alt="image" src="https://github.com/user-attachments/assets/fe941cd4-4f5e-44dd-ae15-6a1f64adf5e3" />
-
-
-hasil 2
-<img width="1344" height="2992" alt="image" src="https://github.com/user-attachments/assets/34e4f292-03fe-4a30-992a-a9cd49b76d00" />
+<img width="1344" height="2992" alt="image" src="https://github.com/user-attachments/assets/fe941cd4-4f5e-44dd-ae15-6a1f64adf5e3" />  <img width="1344" height="2992" alt="image" src="https://github.com/user-attachments/assets/34e4f292-03fe-4a30-992a-a9cd49b76d00" />
 
 4 Desember 2025
 HASIL 1
@@ -20,5 +16,9 @@ HASIL 4
 
 HASIL 5 Setelah di delete
 <img width="1344" height="2992" alt="image" src="https://github.com/user-attachments/assets/598b2b57-2cb6-49a9-8277-7dbac61bc5ed" />
+
+HASIL 6 saat edit dat
+<img width="1344" height="2992" alt="image" src="https://github.com/user-attachments/assets/d6028aaf-fefd-431f-a6f5-f474a10feb1f" />
+
 
 
