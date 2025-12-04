@@ -87,7 +87,6 @@ fun HomeScreen(
 @Composable
 fun BodyHome(
     itemSiswa: List<Siswa>,
-    //parameter onsiswa click
     onSiswaClick: (Int) -> Unit,
     modifier: Modifier=Modifier){
     Column(
