@@ -113,7 +113,6 @@ fun BodyHome(
 @Composable
 fun ListSiswa(
     itemSiswa : List<Siswa>,
-    //parameter onsiswa click
     onSiswaClick: (Siswa) -> Unit,
     modifier: Modifier=Modifier
 ){
