@@ -75,7 +75,6 @@ fun HomeScreen(
         val uiStateSiswa by viewModel.homeUiState.collectAsState()
         BodyHome(
             itemSiswa = uiStateSiswa.listSiswa,
-            //edit
             onSiswaClick = navigateToitemUpdate,
             modifier = Modifier
                 .padding(innerPadding)
