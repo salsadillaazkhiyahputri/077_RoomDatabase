@@ -20,7 +20,7 @@ HASIL 4
 HASIL 5 Setelah di delete
 <img width="1344" height="2992" alt="image" src="https://github.com/user-attachments/assets/598b2b57-2cb6-49a9-8277-7dbac61bc5ed" />
 
-HASIL 6 saat edit dat
+HASIL 6 saat edit data
 <img width="1344" height="2992" alt="image" src="https://github.com/user-attachments/assets/d6028aaf-fefd-431f-a6f5-f474a10feb1f" />
 
 
